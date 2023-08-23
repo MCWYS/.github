@@ -1,5 +1,7 @@
 # Walk2Pack
 
+![우리 프로젝트 정상 영업합니다.](./public/정상영업.jpg)
+
 ## 💻 프로젝트 소개
 
 Junction Asia 2023 [MCWYS] 팀 프로젝트.
